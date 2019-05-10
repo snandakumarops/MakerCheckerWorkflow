@@ -1,15 +1,13 @@
 [
   [
-    "name" : "MyTask", 
+    "name" : "PollKieContainer", 
     "parameters" : [ 
-        "MyFirstParam" : new StringDataType(), 
-        "MySecondParam" : new StringDataType(), 
-        "MyThirdParam" : new ObjectDataType() 
+        "artifactName" : new StringDataType()
     ], 
     "results" : [ 
         "Result" : new ObjectDataType("java.util.Map") 
     ], 
-    "displayName" : "My Task", 
+    "displayName" : "PollKieContainer", 
     "icon" : "" 
   ]
 ]
