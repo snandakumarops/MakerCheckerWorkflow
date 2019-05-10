@@ -1,13 +1,13 @@
 [
   [
-    "name" : "MyTask", 
+    "name" : "PollKieContainer", 
     "parameters" : [ 
         "documentName" : new StringDataType()
     ], 
     "results" : [ 
-        "output" : new StringDataType()
+        "containerForReview" : new StringDataType()
     ], 
-    "displayName" : "My Task", 
+    "displayName" : "PollKieContainer", 
     "icon" : "" 
   ]
 ]
