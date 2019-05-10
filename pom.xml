@@ -45,12 +45,6 @@
       <version>7.18.0.Final-redhat-00002</version>
       <scope>provided</scope>
     </dependency>
-    <dependency>
-      <groupId>com.redhat.makerchecker</groupId>
-      <artifactId>poll-kie-container</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
   </dependencies>
   <build>
     <plugins>
