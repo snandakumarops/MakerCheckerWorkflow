@@ -14,7 +14,7 @@
             <resolver>mvel</resolver>
             <identifier>new org.jugvale.jbpm.workitemhandler.RequestAdditionalDocumentsWorkItemHandler()</identifier>
             <parameters/>
-            <name>MyTask</name>
+            <name>PollKieContainer</name>
         </work-item-handler>
     </work-item-handlers>
     <environment-entries/>
