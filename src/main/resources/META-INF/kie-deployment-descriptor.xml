@@ -12,6 +12,12 @@
     <work-item-handlers>
         <work-item-handler>
             <resolver>mvel</resolver>
+            <identifier>new org.jugvale.jbpm.workitemhandler.PromoteReleaseIdWorkItemHandler()</identifier>
+            <parameters/>
+            <name>promoteRelease</name>
+        </work-item-handler>
+        <work-item-handler>
+            <resolver>mvel</resolver>
             <identifier>new org.jugvale.jbpm.workitemhandler.RequestAdditionalDocumentsWorkItemHandler()</identifier>
             <parameters/>
             <name>PollKieContainer</name>
