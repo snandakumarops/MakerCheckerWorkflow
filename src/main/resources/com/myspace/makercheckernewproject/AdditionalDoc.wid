@@ -9,5 +9,15 @@
     ], 
     "displayName" : "PollKieContainer", 
     "icon" : "" 
+  ],
+   [
+    "name" : "promoteRelease", 
+    "parameters" : [ 
+        "artifactName" : new StringDataType(),
+        "containerForReview" : new StringDataType()
+        
+    ], 
+    "displayName" : "promoteRelease", 
+    "icon" : "" 
   ]
 ]
