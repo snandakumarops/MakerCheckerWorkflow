@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myspace</groupId>
   <artifactId>MakerCheckerNewProject</artifactId>
-  <version>1.0.0</version>
+  <version>LATEST</version>
   <packaging>kjar</packaging>
   <name>MakerCheckerNewProject</name>
   <description></description>
