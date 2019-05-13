@@ -28,7 +28,7 @@
         
     ],
     "results" : [ 
-        "simualationResults" : new java.util.List()
+        "simualationResults" : new ObjectDataType()
     ],
     "displayName" : "simulationUtility", 
     "icon" : "" 
