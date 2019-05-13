@@ -18,6 +18,12 @@
         </work-item-handler>
         <work-item-handler>
             <resolver>mvel</resolver>
+            <identifier>new org.jugvale.jbpm.workitemhandler.RuleCheckSimulationUtilityHandler()</identifier>
+            <parameters/>
+            <name>simulationUtility</name>
+        </work-item-handler>
+        <work-item-handler>
+            <resolver>mvel</resolver>
             <identifier>new org.jugvale.jbpm.workitemhandler.RequestAdditionalDocumentsWorkItemHandler()</identifier>
             <parameters/>
             <name>PollKieContainer</name>
