@@ -27,9 +27,6 @@
         "containerName" : new StringDataType()
         
     ], 
-    "results" : [ 
-        "simualationResults" : new java.util.List()
-    ], 
     "displayName" : "simulationUtility", 
     "icon" : "" 
   ]
