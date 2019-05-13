@@ -20,4 +20,14 @@
     "displayName" : "promoteRelease", 
     "icon" : "" 
   ]
+  ,
+   [
+    "name" : "simulationUtility", 
+    "parameters" : [ 
+        "containerName" : new StringDataType()
+        
+    ], 
+    "displayName" : "simulationUtility", 
+    "icon" : "" 
+  ]
 ]
