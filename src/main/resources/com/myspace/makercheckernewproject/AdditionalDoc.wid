@@ -28,7 +28,9 @@
         
     ],
     "results" : [ 
-        "simualationResults" : new ObjectDataType()
+        "simualationResults" : new ObjectDataType(),
+        "baseRuleSimulationResults": new ObjectDataType(),
+        "delta":new ObjectDataType()
     ],
     "displayName" : "simulationUtility", 
     "icon" : "" 
