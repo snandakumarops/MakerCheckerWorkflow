@@ -48,13 +48,13 @@
     <dependency>
       <groupId>org.jugvale.jbpm.workitemhandler</groupId>
       <artifactId>promote-workitem-handler</artifactId>
-      <version>1.6.7</version>
+      <version>1.6.8</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.jugvale.jbpm.workitemhandler</groupId>
       <artifactId>simulation-utility</artifactId>
-      <version>1.4.6</version>
+      <version>1.4.7</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
