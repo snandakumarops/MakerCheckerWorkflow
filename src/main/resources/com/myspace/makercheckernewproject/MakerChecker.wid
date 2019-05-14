@@ -30,7 +30,8 @@
     "results" : [ 
         "simualationResults" : new ObjectDataType(),
         "baseRuleSimulationResults": new ObjectDataType(),
-        "delta":new ObjectDataType()
+        "delta":new ObjectDataType(),
+        "summaryOfChanges":new StringDataType()
     ],
     "displayName" : "simulationUtility", 
     "icon" : "" 
