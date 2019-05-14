@@ -48,7 +48,7 @@
     <dependency>
       <groupId>org.jugvale.jbpm.workitemhandler</groupId>
       <artifactId>promote-workitem-handler</artifactId>
-      <version>1.6.3</version>
+      <version>1.6.4</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
