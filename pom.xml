@@ -54,7 +54,7 @@
     <dependency>
       <groupId>org.jugvale.jbpm.workitemhandler</groupId>
       <artifactId>simulation-utility</artifactId>
-      <version>1.5.0</version>
+      <version>1.5.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
