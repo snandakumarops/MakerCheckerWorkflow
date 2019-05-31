@@ -3,7 +3,10 @@
     "name" : "BuildChanges", 
     "parameters" : [ 
         "artifactName" : new StringDataType()
-    ], 
+    ],
+    "results" : [ 
+        "containerName" : new StringDataType()
+    ]
     "displayName" : "BuildChanges", 
     "icon" : "" 
   ],
