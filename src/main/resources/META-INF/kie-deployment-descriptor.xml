@@ -28,6 +28,12 @@
             <parameters/>
             <name>PollKieContainer</name>
         </work-item-handler>
+        <work-item-handler>
+            <resolver>mvel</resolver>
+            <identifier>new org.jugvale.jbpm.workitemhandler.BuildChangesWorkItemHandler()</identifier>
+            <parameters/>
+            <name>BuildChanges</name>
+        </work-item-handler>
     </work-item-handlers>
     <environment-entries/>
     <configurations/>
