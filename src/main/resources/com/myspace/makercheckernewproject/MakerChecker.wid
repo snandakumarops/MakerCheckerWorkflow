@@ -6,7 +6,7 @@
     ],
     "results" : [ 
         "containerName" : new StringDataType()
-    ]
+    ],
     "displayName" : "BuildChanges", 
     "icon" : "" 
   ],
