@@ -1,4 +1,12 @@
 [
+     [
+    "name" : "BuildChanges", 
+    "parameters" : [ 
+        "artifactName" : new StringDataType()
+    ], 
+    "displayName" : "BuildChanges", 
+    "icon" : "" 
+  ],
   [
     "name" : "PollKieContainer", 
     "parameters" : [ 
