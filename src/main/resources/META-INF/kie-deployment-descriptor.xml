@@ -12,25 +12,19 @@
     <work-item-handlers>
         <work-item-handler>
             <resolver>mvel</resolver>
-            <identifier>new org.jugvale.jbpm.workitemhandler.PromoteReleaseIdWorkItemHandler()</identifier>
+            <identifier>new com.redhat.makerchecker.promoteReleaseId.PromoteReleaseIdWorkItemHandler()</identifier>
             <parameters/>
             <name>promoteRelease</name>
         </work-item-handler>
         <work-item-handler>
             <resolver>mvel</resolver>
-            <identifier>new org.jugvale.jbpm.workitemhandler.RuleCheckSimulationUtilityHandler()</identifier>
+            <identifier>new com.redhat.makerchecker.simulationUtility.RuleCheckSimulationUtilityHandler()</identifier>
             <parameters/>
             <name>simulationUtility</name>
         </work-item-handler>
         <work-item-handler>
             <resolver>mvel</resolver>
-            <identifier>new org.jugvale.jbpm.workitemhandler.RequestAdditionalDocumentsWorkItemHandler()</identifier>
-            <parameters/>
-            <name>PollKieContainer</name>
-        </work-item-handler>
-        <work-item-handler>
-            <resolver>mvel</resolver>
-            <identifier>new org.jugvale.jbpm.workitemhandler.BuildChangesWorkItemHandler()</identifier>
+            <identifier>new com.redhat.makerchecker.buildchanges.BuildChangesWorkItemHandler()</identifier>
             <parameters/>
             <name>BuildChanges</name>
         </work-item-handler>
