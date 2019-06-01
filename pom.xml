@@ -45,6 +45,24 @@
       <version>7.18.0.Final-redhat-00002</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>com.redhat.makerchecker</groupId>
+      <artifactId>promoterelease</artifactId>
+      <version>1.7.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.redhat.makerchecker</groupId>
+      <artifactId>buildchanges-workitem-handler</artifactId>
+      <version>1.0.8</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.redhat.makerchecker</groupId>
+      <artifactId>simulationutility</artifactId>
+      <version>1.6.2</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
