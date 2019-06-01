@@ -45,29 +45,6 @@
       <version>7.18.0.Final-redhat-00002</version>
       <scope>provided</scope>
     </dependency>
-    <dependency>
-      <groupId>org.jugvale.jbpm.workitemhandler</groupId>
-      <artifactId>promote-workitem-handler</artifactId>
-      <version>1.6.8</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jugvale.jbpm.workitemhandler</groupId>
-      <artifactId>simulation-utility</artifactId>
-      <version>1.6.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jugvale.jbpm.workitemhandler</groupId>
-      <artifactId>additional-doc-workitemhandler</artifactId>
-      <version>1.0.8</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jugvale.jbpm.workitemhandler</groupId>
-      <artifactId>buildchanges-workitem-handler</artifactId>
-      <version>1.0.7</version>
-    </dependency>
   </dependencies>
   <build>
     <plugins>
