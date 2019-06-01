@@ -10,17 +10,6 @@
     "displayName" : "BuildChanges", 
     "icon" : "" 
   ],
-  [
-    "name" : "PollKieContainer", 
-    "parameters" : [ 
-        "artifactName" : new StringDataType()
-    ], 
-    "results" : [ 
-        "containerForReview" : new StringDataType()
-    ], 
-    "displayName" : "PollKieContainer", 
-    "icon" : "" 
-  ],
    [
     "name" : "promoteRelease", 
     "parameters" : [ 
@@ -35,6 +24,7 @@
    [
     "name" : "simulationUtility", 
     "parameters" : [ 
+        "artifactName" : new StringDataType(),
         "containerName" : new StringDataType()
         
     ],
